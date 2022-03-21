@@ -23,6 +23,6 @@ I'm a Systems Analyst graduated from "college Anhanguera Sorocaba" in 2021. I'm 
   <a href = "edueloi.ee@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/edueloi92" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/edueloi/edueloi/blob/output/github-contribution-grid-snake.svg)
  
 </div>
