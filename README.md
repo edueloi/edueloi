@@ -1,4 +1,4 @@
-## Hey! I'm Eduardo Eloi, 29 years old, currently living in Brazil.
+## Hey! I'm Eduardo Eloi, 30 years old, currently living in Brazil.
 
 I'm a Systems Analyst graduated from "college Anhanguera Sorocaba" in 2021. I'm currently taking my second degree in Automation at the College Publica Fatec-SP in Tatuí, São Paulo.
 <div align="center">
