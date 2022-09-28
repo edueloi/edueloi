@@ -1,6 +1,6 @@
 ## Hey! I'm Eduardo Eloi, 30 years old, currently living in Brazil.
 
-I'm a Front-End Developer graduated from "college Anhanguera Sorocaba" in 2021. I'm currently taking my second degree in Automation at the College Publica Fatec-SP in Tatuí, São Paulo.
+I'm currently graduated in Systems Analysis and Development from Faculdade Anhanguera Sorocaba in 2021. I'm currently studying my second coming in Web Development I'm in the third semester at Faculdade Publica Fatec-SP in Tatuí, São Paulo, I'm currently Intern in the position of Front Engineering End at Comexport.
 <div align="center">
   <a href="https://github.com/edueloi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=edueloi&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
